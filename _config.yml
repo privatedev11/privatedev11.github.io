@@ -1,2 +1,14 @@
 plugins:
   - jekyll-seo-tag
+  
+  title:
+    Busaruba2011
+  
+  tagline:
+    Hi, I'm Busaruba2011, and welcome to my site!
+    
+ url:
+    busaruba2011.github.io
+    
+ webmaster_verifications:
+  google: xxb9SpICZ2_KolKj0F0uWQVHZeznkvyWUV2U0O7C8g8
