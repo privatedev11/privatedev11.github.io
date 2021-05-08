@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: busaruba2011.github.io
+Token: 8e2ce01b9e7d71a8a4dbbbaeba7c3145823586901191e78dbf8a8972557063bd
